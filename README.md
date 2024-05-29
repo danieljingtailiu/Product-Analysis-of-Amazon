@@ -33,3 +33,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn nltk mlxtend
 
 ## 5. Result<a name="results"></a>
 The details of the results are shown in the code.
+The best machine learning model to predict product ratings is the Random Forest Regressor.
